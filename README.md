@@ -8,4 +8,5 @@ Pandas for Data Science and ML
         pip install pandas 
 
 - using uv
+
         uv add pandas
